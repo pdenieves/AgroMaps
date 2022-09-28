@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"  ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>16259A038005540000ZQ</name>
+      <Style id="sn_ICONO_OVC">
+		<IconStyle>
+			<color>ffb2c0ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://ovc.catastro.meh.es/Cartografia/WMS/ICONO_OVC.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	  </Style>
+      <Style id="sh_ICONO_OVC">
+		<IconStyle>
+			<color>ffb2c0ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://ovc.catastro.meh.es/Cartografia/WMS/ICONO_OVC.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	  </Style>
+<StyleMap id="msn_ICONO_OVC">
+	<Pair>
+		<key>normal</key>
+		<styleUrl>#sn_ICONO_OVC</styleUrl>
+	</Pair>
+	<Pair>
+		<key>highlight</key>
+		<styleUrl>#sh_ICONO_OVC</styleUrl>
+	</Pair>
+</StyleMap>
+<Style id="linea_parcela">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffa1c7ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+</Style>
+  <Style id="Ladrillo">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FFAAAAFF</color>
+    </PolyStyle>
+  </Style>
+  <Style id="Gris">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FFC8C8C8</color>
+    </PolyStyle>
+  </Style>
+  <Style id="Verde">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FF97F0A9</color>
+    </PolyStyle>
+  </Style>
+  <Style id="Azul">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FFFFFFAA</color>
+    </PolyStyle>
+  </Style>
+  <Style id="Solar">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FFB9C9A0</color>
+    </PolyStyle>
+  </Style>
+  <Style id="Subparcela">
+    <LineStyle>
+      <color>FF000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>FFE1FFE1</color>
+    </PolyStyle>
+  </Style>
+<Visible>1</Visible>
+<LookAt>
+<longitude>-2.91510800778644</longitude>
+<latitude>39.7135414927151</latitude>
+<range>273.878000000026</range>
+<tilt>45</tilt>
+<heading>0</heading>
+</LookAt>
+<Placemark>
+<name>16259A038005540000ZQ</name>
+			<styleUrl>#linea_parcela</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-2.91578359773048,39.713657408228,0 -2.91573954861397,39.7134241910658,0 -2.9158726887876,39.7129279085426,0 -2.91549468047118,39.7128456452815,0 -2.91491963062919,39.712760979503,0 -2.91483619830986,39.7127705593025,0 -2.91431006542408,39.7128474846361,0 -2.91467723022559,39.7133023175424,0 -2.91476227781635,39.7133031909315,0 -2.91486996988636,39.7132947102058,0 -2.91493558981576,39.7133454859945,0 -2.91501670669625,39.7134122257329,0 -2.91514776266482,39.7135643199535,0 -2.91525974086796,39.7137765029534,0 -2.91552611124969,39.7143221728829,0 -2.91572842611732,39.714309795659,0 -2.91579226807294,39.7142889382072,0 -2.91586522956042,39.714251958988,0 -2.91590601689996,39.7141936922425,0 -2.91578359773048,39.713657408228,0 -2.91578359773048,39.713657408228,0 						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+<Folder>
+<name>SUBPARCELAS</name>
+<Placemark>
+<name>   0</name>
+  <styleUrl>#Subparcela</styleUrl>
+			<Polygon>
+<extrude>1</extrude>
+<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+-2.91590601689996,39.7141936922425,.1 -2.91578359773048,39.713657408228,.1 -2.91573954861397,39.7134241910658,.1 -2.9158726887876,39.7129279085426,.1 -2.91549468047118,39.7128456452815,.1 -2.91491963062919,39.712760979503,.1 -2.91483619830986,39.7127705593025,.1 -2.91431006542408,39.7128474846361,.1 -2.91467723022559,39.7133023175424,.1 -2.91476227781635,39.7133031909315,.1 -2.91486996988636,39.7132947102058,.1 -2.91493558981576,39.7133454859945,.1 -2.91501670669625,39.7134122257329,.1 -2.91514776266482,39.7135643199535,.1 -2.91525974086796,39.7137765029534,.1 -2.91552611124969,39.7143221728829,.1 -2.91572842611732,39.714309795659,.1 -2.91579226807294,39.7142889382072,.1 -2.91586522956042,39.714251958988,.1 -2.91590601689996,39.7141936922425,.1 -2.91590601689996,39.7141936922425,.1 						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+</Folder>
+<Placemark>
+<name>Polígono 38 Parcela 554, VILLAMAYOR DE SANTIAGO (CUENCA)</name>
+<Snippet>16259A038005540000ZQ</Snippet>
+<description><![CDATA[<font size=+1>Consultar en la Sede Electrónica<br>del Catastro la parcela:</font><br><font size=+2><A href="https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCListaBienes.aspx?del=16&muni=259&rc1=16259A0&rc2=3800554">16259A038005540000ZQ</a></font>]]></description>
+<styleUrl>#msn_ICONO_OVC</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-2.91510800778644,39.7135414927151,4</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

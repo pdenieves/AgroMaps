@@ -1,0 +1,12 @@
+CodigoCultivo,NombreCultivo,ColorCultivo
+VIN,Viña,limegreen
+FOR,Forestal,darkturquoise
+ALM,Almendros,firebrick
+INM,Instalaciones e inmuebles,red
+LAB,Tierras de labor,gold
+OLI,Olivos,darkorchid
+PIS,Pistachos,deeppink
+ERI,Erial/monte/sin cultivar,darkgreen
+CAM,Caminos y carriles,white
+CZA,Caza,darkolivegreen
+OTR,Otros,white
