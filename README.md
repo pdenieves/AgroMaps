@@ -6,6 +6,7 @@ Con este proyecto exploraré las diferentes posibilidades y retos técnicos para
 
 
 Notas de la *primera versión*:
+ - El código está desarrollado en un notebook de Jupyter (Python)
  - Sobre el mapa se visualizan las parcelas y puntos de interés.
  - Los colores de las parcelas corresponden el tipo de cultivo o al propietario, según el parámetro 'mode'.
  - Las coordenadas de las parcelas se extraen de ficheros KML descargados del Catastro.
