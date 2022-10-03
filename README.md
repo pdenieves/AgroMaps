@@ -21,4 +21,5 @@ Notas de la *segunda versión*:
  - Se ha añadido la carga de markers.
  - El html generado se puede abrir desde cualquier navegador, incluso desde el movil.
  - Para cada elemento se despliega una ventana con la información referente a la parcela, punto de interés o marker.
+ 
  ![image](https://user-images.githubusercontent.com/83430122/193652650-3b1345e4-0a18-4cc7-adcb-ba28f08d9d9a.png)
