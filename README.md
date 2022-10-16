@@ -23,3 +23,9 @@ Notas de la *segunda versión*:
  - Para cada elemento se despliega una ventana con la información referente a la parcela, punto de interés o marker.
  
  ![image](https://user-images.githubusercontent.com/83430122/193652650-3b1345e4-0a18-4cc7-adcb-ba28f08d9d9a.png)
+
+
+Notas de la *tercera versión*:
+ - Se cargan las rutas y marques de la app MyTrack.
+ - Se añaden las coordenadas en las etiquetas de los markers.
+ - Se realizan cambios para que carguen diferentes layers separados, contenidos cada uno en una carpeta independiente.
