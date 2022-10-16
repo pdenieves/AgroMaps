@@ -29,3 +29,7 @@ Notas de la *tercera versión*:
  - Se cargan las rutas y marques de la app MyTrack.
  - Se añaden las coordenadas en las etiquetas de los markers.
  - Se realizan cambios para que carguen diferentes layers separados, contenidos cada uno en una carpeta independiente.
+
+
+Notas de la *cuarta versión*:
+ - <en construcción>
